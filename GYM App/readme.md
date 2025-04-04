@@ -31,6 +31,6 @@ https://github.com/AliKhazaaleh/Graduation-Projects/blob/main/GYM%20App/GYMAPP.z
 
 ![alt text](https://github.com/AliKhazaaleh/Graduation-Projects/blob/main/GYM%20App/login.png?raw=true)
 ![alt text](https://github.com/AliKhazaaleh/Graduation-Projects/blob/main/GYM%20App/home-trainee.png?raw=true)
-![alt text (https://github.com/AliKhazaaleh/Graduation-Projects/blob/main/GYM%20App/my%20requests.png?raw=true)
+![alt text](https://github.com/AliKhazaaleh/Graduation-Projects/blob/main/GYM%20App/my%20requests.png?raw=true)
 ![alt text](https://github.com/AliKhazaaleh/Graduation-Projects/blob/main/GYM%20App/my%20training.png?raw=true)
 ![alt text](https://github.com/AliKhazaaleh/Graduation-Projects/blob/main/GYM%20App/add%20training.png?raw=true)
