@@ -40,19 +40,15 @@ https://github.com/AliKhazaaleh/Graduation-Projects/blob/main/Family%20Social%20
 
 #### GUI of Application
 
-![alt text](https://github.com/AliKhazaaleh/Graduation-Projects/blob/main/Family%20Social%20Network/login_page.png?raw=true)
-![alt text](https://github.com/AliKhazaaleh/Graduation-Projects/blob/main/Family%20Social%20Network/personal.png?raw=true)
-
-![alt text](https://github.com/AliKhazaaleh/Graduation-Projects/blob/main/Family%20Social%20Network/families.png?raw=true)
-![alt text](https://github.com/AliKhazaaleh/Graduation-Projects/blob/main/Family%20Social%20Network/my_family_posts.png?raw=true)
-![alt text](https://github.com/AliKhazaaleh/Graduation-Projects/blob/main/Family%20Social%20Network/my_family_members.png?raw=true)
-![alt text](https://github.com/AliKhazaaleh/Graduation-Projects/blob/main/Family%20Social%20Network/my_family_about.png?raw=true)
-
-![alt text](https://github.com/AliKhazaaleh/Graduation-Projects/blob/main/Family%20Social%20Network/create_family.png?raw=true)
-![alt text](https://github.com/AliKhazaaleh/Graduation-Projects/blob/main/Family%20Social%20Network/create_post.png?raw=true)
-![alt text](https://github.com/AliKhazaaleh/Graduation-Projects/blob/main/Family%20Social%20Network/comments.png?raw=true)
-
-![alt text](https://github.com/AliKhazaaleh/Graduation-Projects/blob/main/Family%20Social%20Network/location_post.png?raw=true)
-![alt text](https://github.com/AliKhazaaleh/Graduation-Projects/blob/main/Family%20Social%20Network/location_member.png?raw=true)
-
+<img src="https://github.com/AliKhazaaleh/Graduation-Projects/blob/main/Family%20Social%20Network/login_page.png?raw=true" width="300" height="500"/>
+<img src="https://github.com/AliKhazaaleh/Graduation-Projects/blob/main/Family%20Social%20Network/personal.png?raw=true" width="300" height="500"/>
+<img src="https://github.com/AliKhazaaleh/Graduation-Projects/blob/main/Family%20Social%20Network/families.png?raw=true" width="300" height="500"/>
+<img src="https://github.com/AliKhazaaleh/Graduation-Projects/blob/main/Family%20Social%20Network/my_family_posts.png?raw=true" width="300" height="500"/>
+<img src="https://github.com/AliKhazaaleh/Graduation-Projects/blob/main/Family%20Social%20Network/my_family_members.png?raw=true" width="300" height="500"/>
+<img src="https://github.com/AliKhazaaleh/Graduation-Projects/blob/main/Family%20Social%20Network/my_family_about.png?raw=true" width="300" height="500"/>
+<img src="https://github.com/AliKhazaaleh/Graduation-Projects/blob/main/Family%20Social%20Network/create_family.png?raw=tru" width="300" height="500"/>
+<img src="https://github.com/AliKhazaaleh/Graduation-Projects/blob/main/Family%20Social%20Network/create_post.png?raw=true" width="300" height="500"/>
+<img src="https://github.com/AliKhazaaleh/Graduation-Projects/blob/main/Family%20Social%20Network/comments.png?raw=true" width="300" height="500"/>
+<img src="https://github.com/AliKhazaaleh/Graduation-Projects/blob/main/Family%20Social%20Network/location_post.png?raw=true" width="300" height="500"/>
+<img src="https://github.com/AliKhazaaleh/Graduation-Projects/blob/main/Family%20Social%20Network/location_member.png?raw=true" width="300" height="500"/>
 
