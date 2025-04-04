@@ -1,32 +1,32 @@
 # Family Social Network
 
-![alt text](https://github.com/AliKhazaaleh/Graduation-Projects/blob/main/Family%20Social%20Network/logo.png?raw=true)
-
 **Date:** May 2018
 
 An Android application designed to strengthen and simplify communication within families.
 
-## 📱 Features
+## Features
 
-- 🤝 Increase communication between family members  
-- 🗂️ Organize and manage family-related matters  
-- 📰 A platform to display and share family news and activities  
-- 🌐 Arabic language support for native users
+- Increase communication between family members  
+- Organize and manage family-related matters  
+- A platform to display and share family news and activities  
+- Arabic language support for native users
 
 ---
 
 This app was built with the goal of improving family interaction through a dedicated, user-friendly platform.
 
 
+#### Logo
+![alt text](https://github.com/AliKhazaaleh/Graduation-Projects/blob/main/Family%20Social%20Network/logo.png?raw=true)
+
 
 #### Use Case Diagram
-
 ![alt text](https://github.com/AliKhazaaleh/Graduation-Projects/blob/main/Family%20Social%20Network/Digrame-chp-4(FSN)%20(Use%20Case).png?raw=true)
 
 
 #### Activity Diagram
-
 ![alt text](https://github.com/AliKhazaaleh/Graduation-Projects/blob/main/Family%20Social%20Network/Digrame-chp-4(FSN)%20Activity%20Diagram.png?raw=true)
+
 
 #### Class Diagram
 ![alt text](https://github.com/AliKhazaaleh/Graduation-Projects/blob/main/Family%20Social%20Network/Digrame-chp-4(FSN)%20(Class%20Diagram).png?raw=true)
