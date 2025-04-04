@@ -23,8 +23,7 @@ https://github.com/AliKhazaaleh/Graduation-Projects/blob/main/Family%20Social%20
 - https://github.com/AliKhazaaleh/Graduation-Projects/blob/main/Family%20Social%20Network/BestDoc.docx
 
 #### Logo
-![alt text](https://github.com/AliKhazaaleh/Graduation-Projects/blob/main/Family%20Social%20Network/logo.png?raw=true)
-
+<img src="https://github.com/AliKhazaaleh/Graduation-Projects/blob/main/Family%20Social%20Network/logo.png?raw=true?raw=true" width="350" height="350"/>
 
 #### Use Case Diagram
 ![alt text](https://github.com/AliKhazaaleh/Graduation-Projects/blob/main/Family%20Social%20Network/Digrame-chp-4(FSN)%20(Use%20Case).png?raw=true)
