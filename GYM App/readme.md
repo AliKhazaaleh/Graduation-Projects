@@ -20,7 +20,7 @@ https://github.com/AliKhazaaleh/Graduation-Projects/blob/main/GYM%20App/GYMAPP.z
 
 
 #### Use Case Diagram
-<img src="https://github.com/AliKhazaaleh/Graduation-Projects/blob/main/GYM%20App/use%20case.png?raw=true" width="700" height="300"/>
+<img src="https://github.com/AliKhazaaleh/Graduation-Projects/blob/main/GYM%20App/use%20case.png?raw=true" width="300" height="700"/>
 
 
 #### Activity Diagram
