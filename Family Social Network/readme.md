@@ -15,6 +15,12 @@ An Android application designed to strengthen and simplify communication within 
 
 This app was built with the goal of improving family interaction through a dedicated, user-friendly platform.
 
+### Source Code
+https://github.com/AliKhazaaleh/Graduation-Projects/blob/main/Family%20Social%20Network/Family%20Social%20Network%20-%20Android%20App.zip
+
+### Documentation
+- https://github.com/AliKhazaaleh/Graduation-Projects/blob/main/Family%20Social%20Network/BestWag.docx
+- https://github.com/AliKhazaaleh/Graduation-Projects/blob/main/Family%20Social%20Network/BestDoc.docx
 
 #### Logo
 ![alt text](https://github.com/AliKhazaaleh/Graduation-Projects/blob/main/Family%20Social%20Network/logo.png?raw=true)
