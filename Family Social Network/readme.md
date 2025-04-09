@@ -1,6 +1,6 @@
 # Family Social Network
 
-**Date:** May 2018
+# Date: May 2018
 
 An Android application designed to strengthen and simplify communication within families.
 
