@@ -1,6 +1,5 @@
 # XML Custom View
-
-**Date:** May 2017
+# Date: May 2017
 
 
 Web site that helps Android developers to create and custom view for their application in such an easy way and speedily, this site will generate XML code only for the view, which they designed.
