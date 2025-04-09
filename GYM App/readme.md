@@ -1,6 +1,6 @@
 # GYM APP
 
-**Date:** May 2019
+# Date: May 2019
 
 An Android application designed to enhance the relation between the coaches and trainees to ensure best results also, we seek to achieve these goals (Features): -
 
